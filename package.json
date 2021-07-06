@@ -1,0 +1,11 @@
+{
+  "name": "disney-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com/ArtGiuScala/ConversorDisney.git",
+  "author": "Giulianno Scala <Giulianno.scala@cubos.io>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}
